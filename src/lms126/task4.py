@@ -6,7 +6,7 @@ def task4():
     Input of the number x
     Input of the number y
     IF x is greater than y then
-    print the value of x
+    print the value of x as output
     else
-    print the value of y    
+    print the value of y  as output  
     """
