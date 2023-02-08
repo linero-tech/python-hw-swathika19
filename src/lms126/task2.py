@@ -1,6 +1,7 @@
 from to_do import TODO
 
 
+
 def task2():
     return """
      Take the input of base of the rectangle

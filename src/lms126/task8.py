@@ -11,5 +11,5 @@ def task8():
     If x divided by 3 equals to zero then
     print Output as "Foo"
     else check If x divided by 5 equals to zero or 5 then 
-    print Output as "Bar"
+    print Outpgut as "Bar"
     """
