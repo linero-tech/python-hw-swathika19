@@ -3,13 +3,11 @@ def task1():
  # country_name = "Sweden"
  #capital_name= "Stockholm"
  #currency_name= "SEK"
-    #print("Country:Sweden")
-    #print("Capital:Stockholm")
-    #print("Currency:SEK")
 
 
-     print("Country: Sweden")
-     print("Capital: Stockholm")
+
+     print("Country:Sweden")
+     print("Capital:Stockholm")
      print("Currency:SEK")
 
 
