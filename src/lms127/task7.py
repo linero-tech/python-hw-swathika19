@@ -2,6 +2,11 @@ from to_do import TODO
 
 
 def task7(sentence):
-    return TODO(
-        "Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword"
-    )
+  #  sentence = "I love sweden"
+    result = len(sentence)
+    return result
+
+
+if __name__ == "__main__":
+
+    print(task7("I love Sweden"))
