@@ -4,8 +4,6 @@ def task1():
  #capital_name= "Stockholm"
  #currency_name= "SEK"
 
-
-
      print("Country:Sweden")
      print("Capital:Stockholm")
      print("Currency:SEK")

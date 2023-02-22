@@ -8,9 +8,9 @@ def task5(value_for_a, value_for_b):
     a = value_for_b
     b = temp
 
-    print(f"a is {a} and b is {b} ")
+    #print(f"a is {a} and b is {b} ")
     return a, b
 
 if __name__ == "__main__":
 
-    task5(value_for_a= 125 ,value_for_b=645)
+   print(task5(value_for_a= 125 ,value_for_b=645))
