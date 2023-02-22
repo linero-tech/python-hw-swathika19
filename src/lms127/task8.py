@@ -2,15 +2,17 @@ from to_do import TODO
 
 
 def task8(sentence, character):
- new_sentence = sentence.lower()
- count = 0
- for i in new_sentence:
-    if i == 'p':
-        count = count + 1
- result = count
- return result
+    new_sentence = sentence.upper()
+    new_character = character.upper()
+    result = 0
+    for character in new_sentence:
+      if character == 'new_character':
+        result = result + 1
+
+
+    return result
 
 
 if __name__ == "__main__":
 
- print(task8("I CODE IN PYTHON","P"))
+   print(task8("I CODE IN PYTHON", "i"))
