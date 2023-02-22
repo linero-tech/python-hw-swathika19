@@ -2,7 +2,7 @@ from to_do import TODO
 
 
 def task7(sentence):
-  #  sentence = "I love sweden"
+   #sentence = "I love sweden"
     result = len(sentence)
     return result
 
